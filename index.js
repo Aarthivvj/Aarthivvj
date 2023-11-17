@@ -4,4 +4,4 @@ var http = require('http');
 http.createServer(function (req, res) {
   res.write('You are  in AWS  Cloud TECHESSAY AarthI. Now code is updated to Run to Version 1 '); //write a response to the client
   res.end(); //end the response
-}).listen(3000); //the server object listens on port 3000
+}).listen(5000); //the server object listens on port 5000
