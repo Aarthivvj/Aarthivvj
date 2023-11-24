@@ -4,4 +4,4 @@ var http = require('http');
 http.createServer(function (req, res) {
   res.write('You are  in AWS  AarthI. Now code is updated to Run to Version 2.0 after edit'); //write a response to the client
   res.end(); //end the response
-}).listen(5019); //the server object listens on port 5008
+}).listen(5020); //the server object listens on port 5020
